@@ -1,0 +1,17 @@
+.behaviour_details{
+    background-color: aqua;
+    color: #000;
+    font-size: 1.5rem;
+    
+    padding-top: .625rem;
+}
+.interest{
+    font-size: 1.5rem;
+}
+.nav-link{
+    color: #000 !important;
+    font-weight: 700 !important;
+}
+.active{
+    color: brown !important;
+}

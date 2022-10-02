@@ -1,0 +1,12 @@
+.awarness_details{
+    background-color: aqua;
+    
+}
+
+.nav-link{
+    color: #000 !important;
+    font-weight: 700 !important;
+}
+.active{
+    color: brown !important;
+}

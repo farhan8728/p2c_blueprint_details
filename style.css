@@ -1,0 +1,36 @@
+.right_side_p{
+    font-weight: 700;
+    color: #fff;
+    background-color: #000;
+    padding: .625rem 1rem;
+    border-radius: .625rem;
+}
+.nav-link{
+    color: #000 !important;
+    font-weight: 700 !important;
+}
+.nav-link:focus{
+    color: #fff !important;
+}
+.goal{
+    width: 100%;
+    /* border: 1px solid #000; */
+    padding-bottom: 20px;
+}
+.ask{
+    background-color: #000;
+    color: #fff;
+    padding: .625rem 1rem;
+    border-radius: .625rem;
+
+}
+.what{
+    font-size: 1.5rem;
+}
+.left_side{
+    border-right: 2px solid #f6f6f6;
+}
+
+.active{
+    color: brown !important;
+}
